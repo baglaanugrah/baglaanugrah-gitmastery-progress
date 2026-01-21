@@ -1,0 +1,74 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768983969.046875,
+    "completed_at": 1768983970.582375,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768985511.730506,
+    "completed_at": 1768985514.75359,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit d8d215c99223abfe832a3be337e5cb96a2a825d6? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768985634.075931,
+    "completed_at": 1768985635.498075,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768983470.748033,
+    "completed_at": 1768983472.151216,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768560731.721629,
+    "completed_at": 1768560733.031539,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768563517.266865,
+    "completed_at": 1768563519.525591,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768982490.370797,
+    "completed_at": 1768982494.698714,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768982732.86632,
+    "completed_at": 1768982734.254269,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
