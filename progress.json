@@ -260,5 +260,14 @@
       "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1769590688.358212,
+    "completed_at": 1769590691.228473,
+    "comments": [
+      "You need to start merging the feature branches."
+    ],
+    "status": "Incomplete"
   }
 ]
